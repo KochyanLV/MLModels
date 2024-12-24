@@ -12,7 +12,7 @@ Implementation of classic ML and DL models from scratch: theoretical and practic
 - [Gradient Boosting](https://github.com/KochyanLV/MLModels/blob/main/ML/GradientBoosting.ipynb)
 - [Boosting Class](https://github.com/KochyanLV/MLModels/blob/main/ML/Boosting.ipynb)
 - [Cross-Validation & GridSearch](https://github.com/KochyanLV/MLModels/blob/main/ML/CrossVal_GridSearch.ipynb)
-- [Randomized & Bayes Search](https://github.com/KochyanLV/MLModels/blob/main/ML/Randomized_BayesSearch.ipynb)
+- [Randomized & Bayes Searches](https://github.com/KochyanLV/MLModels/blob/main/ML/Randomized_BayesSearch.ipynb)
 - [Bias Variance Tradeoff](https://github.com/KochyanLV/MLModels/blob/main/ML/BiasVarianceTradeoff.ipynb)
 - [PCA](https://github.com/KochyanLV/MLModels/blob/main/ML/PCA.ipynb)
 
@@ -22,7 +22,7 @@ Implementation of classic ML and DL models from scratch: theoretical and practic
 - [RNN](https://github.com/KochyanLV/MLModels/blob/main/DL/RNN.ipynb)
 - [RNN Practice](https://github.com/KochyanLV/MLModels/blob/main/DL/RNN_Name_Generator.ipynb)
 - [Word2Vec](https://github.com/KochyanLV/MLModels/blob/main/DL/Word2Vec.ipynb)
-- [xLSTM](https://github.com/KochyanLV/MLModels/blob/main/DL/xlstm.pptx)
+- [xLSTM](https://github.com/KochyanLV/MLModels/blob/main/DL/xlstm.pdf)
 
 ## Learning to Rank & RecSys:
 
