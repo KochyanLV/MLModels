@@ -20,7 +20,7 @@ Implementation of classic ML and DL models from scratch: theoretical and practic
 
 - [Neural Networks](https://github.com/KochyanLV/MLModels/blob/main/DL/NeuralNetworks.ipynb)
 - [RNN](https://github.com/KochyanLV/MLModels/blob/main/DL/RNN.ipynb)
-- [RNN Practice](https://github.com/KochyanLV/MLModels/blob/main/DL/RNN_Name_Generatr.ipynb)
+- [RNN Practice](https://github.com/KochyanLV/MLModels/blob/main/DL/RNN_Name_Generator.ipynb)
 - [Word2Vec](https://github.com/KochyanLV/MLModels/blob/main/DL/Word2Vec.ipynb)
 - [xLSTM](https://github.com/KochyanLV/MLModels/blob/main/DL/xlstm.pdf)
 
